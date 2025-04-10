@@ -1,6 +1,6 @@
 # 🧠 Detecting Image dengan Model LLaMA
 
-Proyek ini menggunakan model `meta-llama/llama-4-scout-17b-16e-instruct` dari Groq untuk melakukan **analisis visual** terhadap gambar. Model menerima input berupa gambar dan menjelaskan kontennya secara otomatis dalam format teks yang bisa diolah atau ditampilkan.
+Proyek ini menggunakan model `meta-llama/llama-4-scout-17b-16e-instruct` dari Groq untuk melakukan **analisis visual** terhadap gambar.
 
 ---
 
